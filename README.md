@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on CSCI3251
+- 🌱 I’m currently learning GitHub
+
 <!--
 **MayaCHEN-github/MayaCHEN-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
